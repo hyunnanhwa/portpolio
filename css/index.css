@@ -1810,9 +1810,9 @@ footer .name h2 {
     margin-left: -100px;
 }
 
-.f_info ul:nth-child(2) li {
+/* .f_info ul:nth-child(2) li {
     display: inline-block;
-}
+} */
 
 .f_info ul:nth-child(2) li:hover a {
     box-shadow: 5px 6px 10px 0px rgb(0 0 0 / 30%);
