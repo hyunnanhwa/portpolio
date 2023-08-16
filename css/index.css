@@ -498,7 +498,7 @@ header .name h2 {
 .skills li {
     display: inline-block;
     flex-wrap: wrap;
-    margin-right: 28px;
+    margin-right: 26px;
     text-align: center;
 }
 .about_right div:nth-child(2) {
